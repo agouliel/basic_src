@@ -1,0 +1,6 @@
+5 CLS
+6 PRINT "æÄôÅäÉ ÅÉÄéÉÇïïÇ åòÄô!"
+10 A$="msl8c#d#c#<b->c#c#2"
+20 B$="o5c#d#c#<b->c#<b4p16b>c#<bg#bb-4p16b-bb-f#b-g#4g#b-g#fg#f#4"
+30 PLAY "t120l4o5c#f#c#8d#8<b16g#>xa$;<xa$;xb$;"
+40 END

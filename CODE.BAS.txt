@@ -1,0 +1,12 @@
+   10 CLS
+   20 LET C$="":PRINT
+   30 PRINT "éÉÇûä ÆÄ ïåîôïÇ"
+   40 INPUT M$:LET L=LEN(M$)
+   50 IF INT(L/2)<>L/2 THEN LET M$=M$+" "
+   60 FOR K=1 TO LEN(M$) STEP 2
+   70 LET C$=C$+MID$(M$, K+1, 1)
+   80 LET C$=C$+MID$(M$, K, 1)
+   90 NEXT K
+  100 CLS
+  110 PRINT:PRINT "ëùâêëÄÅÄêåïäîÄ ïåîôïÇ"
+  120 PRINT:PRINT C$

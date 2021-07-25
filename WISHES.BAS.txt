@@ -1,0 +1,11 @@
+10 CLS
+20 LET A$="òÉÄîêÇ ÅÄèèÇ"
+30 PRINT:PRINT :PRINT
+40 FOR K=1 TO LEN(A$)
+50 LET N$=MID$(A$, K, 1)
+60 FOR L=1 TO 300:NEXT L
+65 PRINT N$
+70 NEXT K
+80 PRINT:PRINT :PRINT
+90 PRINT "ïä ÇéÇÅå ÇÅÄ"
+100 PRINT "ÆÄî ôÅÄèÄéêæÆå æÄô"
