@@ -1,18 +1,18 @@
-   10 CLS
-   20 PRINT "ÅÄô üÉêæëäæÇê;":INPUT P$
-   30 PRINT "Åùæ ÆÇ"
-   40 PRINT "ÅäÉîÇæ;":INPUT D$
-   50 PRINT "Åäæ éêÇ ÆÄî ëÇêÉÄ"
-   60 INPUT W$
-   70 PRINT "ëÇê éêÇ ÆÄ öÇéåÆÄ":INPUT F$
-   80 PRINT "ÅÄêÄ äêîÇê ÆÄ ÄîÄïÇ æÄô;":INPUT N$
-   90 PRINT "æä ÅÄêÄî éÉÇöäêæ;"
-  100 INPUT A$
-  110 CLS
-  120 PRINT:PRINT "ÇéÇÅåÆä";" "A$;",":PRINT
-  130 PRINT "ÅäÉîÇù";" ";D$
-  140 PRINT "äâù æÆåî";" "P$;"."
-  150 PRINT "O KAIPOæ äêîÇê";" "W$;" ";"ëÇê"
-  160 PRINT "TO öÇê äêîÇê";" ";F$
-  170 PRINT "ïÇëÇÉê îÇ åæÄôî äâù!"
-  180 PRINT:PRINT "ïä ÇéÇÅå";" ";N$
+10 CLS
+20 PRINT "ÅÄô üÉêæëäæÇê;":INPUT P$
+30 PRINT "Åùæ ÆÇ"
+40 PRINT "ÅäÉîÇæ;":INPUT D$
+50 PRINT "Åäæ éêÇ ÆÄî ëÇêÉÄ"
+60 INPUT W$
+70 PRINT "ëÇê éêÇ ÆÄ öÇéåÆÄ":INPUT F$
+80 PRINT "ÅÄêÄ äêîÇê ÆÄ ÄîÄïÇ æÄô;":INPUT N$
+90 PRINT "æä ÅÄêÄî éÉÇöäêæ;"
+100 INPUT A$
+110 CLS
+120 PRINT:PRINT "ÇéÇÅåÆä";" "A$;",":PRINT
+130 PRINT "ÅäÉîÇù";" ";D$
+140 PRINT "äâù æÆåî";" "P$;"."
+150 PRINT "O KAIPOæ äêîÇê";" "W$;" ";"ëÇê"
+160 PRINT "TO öÇê äêîÇê";" ";F$
+170 PRINT "ïÇëÇÉê îÇ åæÄôî äâù!"
+180 PRINT:PRINT "ïä ÇéÇÅå";" ";N$
